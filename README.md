@@ -77,7 +77,7 @@
 **🤖 [AI-Driven Lead Qualification & Notification Agent](https://github.com/dshiv15/AI-Driven-Lead-Qualification-Notification-Agent)**  
 *n8n • Gemini • Gmail API*  
 > An AI-driven lead qualification and notification system that automates scoring, classification, and routing of 500+ leads weekly using n8n workflows, Google Gemini AI, and the Gmail API. This solution reduces manual triage by 80%, accelerates response times by 5×, and sends real-time personalized notifications to the right stakeholders—making lead.
--->
+
 ---
 
 <!--## 📜 Certifications
@@ -90,9 +90,9 @@
 - [CDAC Certificate Program](https://github.com/dshiv15/Certificates/blob/main/CDAC_Certificate.pdf)
 - [Coding Ninjas – Specialist Badge](https://github.com/dshiv15/Certificates/blob/main/CodingNinjas_Specialist_Badge.pdf)
 - [Coding Ninjas – Achiever Badge](https://github.com/dshiv15/Certificates/blob/main/CodingNinjas_Achiever_Badge.pdf)
--->
----
 
+---
+-->
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjain0924&layout=compact&theme=radical)  
