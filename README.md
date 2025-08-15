@@ -64,8 +64,8 @@
 
 ---
 
-## 📌 Top Projects
-<!--
+<!--## 📌 Top Projects
+
 **🧠 [Walmart-Supplychain-Optimizer](https://github.com/dshiv15/walmart-supplychain-optimizer)**  
 *Python • Pandas • NetworkX • Flask • FastAPI • React.js • NumPy*  
 > AI-powered decision engine designed to eliminate inefficiencies, fragmentation, and cost leakage within Walmart’s retail supply chain — with a specific focus on last-mile delivery, return bundling, and dynamic fulfillment node selection.
@@ -80,8 +80,8 @@
 -->
 ---
 
-## 📜 Certifications
-<!--
+<!--## 📜 Certifications
+
 - [AWS Academy Cloud Foundations](https://github.com/dshiv15/Certificates/blob/main/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20250107-27-a3n99f.pdf)
 - [The Complete 2024 Web Development Bootcamp](https://github.com/dshiv15/Certificates/blob/main/Web_Dev_Certificate.pdf)
 - [PwC Management Consulting](https://github.com/dshiv15/Certificates/blob/main/PWC_Management_Consulting.pdf)
